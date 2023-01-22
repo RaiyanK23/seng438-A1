@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 20      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Mohammed Kabir               |   
+| Jacob Adeyemo              |   
+| Markosch Saure              |   
+| Kundai Dziwa               |   
 
 
 **Table of Contents**
@@ -33,12 +33,40 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Assignment 1 involves having group members go through a program which involves an Automated Teller Machine (ATM) and
+receiving a list of instructions by which we run this program. Each group is instructed to run a series of exploratory,
+manual and regression testing, and then compile a list of bug defects followed by a formal lab report. 
+
+Exploratory testing is a form of test-case design. It is the testing process by which we (humans) design test values
+based on domain knowledge as well as general human knowledge of testing. In our case, we use Appendix B to gain knowledge
+about the specific requirements of the program and compile a list of tests based on that.
+
+Manual functional testing is also a form of test-case design. It is the testing process by which test values are designed
+to cover and satisfy coverage criteria or a specific engineering goal. In our case, Appendix C provides specific values
+and criteria through which we should be testing our system.
+
+Lastly, regression testing is a form of testing done to check that updates that were made in response to bug defects
+do not reintroduce faults that were correct prior to the fix. This type of testing is most often done after all fixes
+are made to bugs (when code is checked in to the repository).
 
 # High-level description of the exploratory testing plan
 
-Text…
+Our exploratory testing plan involves looking at each of the major functional components
+of the ATM and going through a case-by-case basis of testing. Examples of these functionalities:
+
+1. Start/Off of the ATM
+2. Inputting a card into the ATM + validation process
+3. Entering the amount of $20 bills requested
+4. Inserting the card, and trying out different pins.
+5. Transactions (deposit, withdraw, transfer) 
+
+The approach that we are adopting is to isolate a specific functionality of the program (i.e entering card + verification)
+and then create test cases and extensively test. We are looking to put more weight/emphasis on areas and functionalities
+of the program that we believe are more prone to bugs (such as functionalities that require more input vs others that require
+less input) rather than going chronological. 
+
+We are using Appendix B that we received as part of our lab documents as our oracle for exploratory testing, and the basis of our test cases. The oracle tells us expected outcomes that we know as truths, therefore we will try test cases of equivalent classes and boundary/edge conditions. Equivalent classes being inputs that fall in similar ranges and boundaries are conditions which are specifically targeted and fall on the "boundary" of our test inputs. 
+
 
 # Comparison of exploratory and manual functional testing
 
