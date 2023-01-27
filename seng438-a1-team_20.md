@@ -109,3 +109,5 @@ This lab allowed us to extensively conduct tests on the ATM software from differ
 Specifically within exploratory testing, the aspect of working together with a group of developers helped us greatly expand ideas and stem thought on many posibilities of bugs. If this was done individually, the purpose of exploratory testing may not be completely realized since the main goal is to think about what the cases the could happen in use. 
 
 Furthermore, implementing the manual testing enabled us to perform more specific and direct tests to the functions of the system. This highlighted some of the individual errors specific to functionaly that also may be carried over into other areas of the application. 
+
+After completing testing process there are still small bugs that might have popped up, and that can still be found within the regression testing portion. This reminded us that as in all software, there will always be small problems which arise, and its about the constant testing and review of the system. 
