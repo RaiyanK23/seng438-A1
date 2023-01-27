@@ -97,7 +97,7 @@ As per the lab instructions, we divided into two groups of 2 for exploratory tes
 - record any bugs found on the Jira board
 - assist on any the above tasks as necessary
 
-similarly, delegation of work for the lab report write-up was determined using the report section headers as the basis. 
+Similarly, delegation of work for the lab report write-up was determined using the report section headers as the basis. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
