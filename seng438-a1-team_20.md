@@ -7,7 +7,7 @@
 | Mohammed Kabir               |   
 | Jacob Adeyemo (30046186)            |   
 | Markosch Saure (30088690)             |   
-| Kundai Dziwa               |   
+| Kundai Dziwa (30090173)               |   
 
 
 **Table of Contents**
