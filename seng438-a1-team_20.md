@@ -94,8 +94,13 @@ Pair reviews also allowed each of the pairs to compare and contrast our results 
 Text…
 
 # Difficulties encountered, challenges overcome, and lessons learned
+The first difficulty we encounterd in this lab was coordinating the schedules of each team member, as every one of us was busy. We overcame this by communicating and sharing calendars, so we could reach an agreement on convinient times to meet. 
 
-Text…
+Another difficulty we faced was following the lab instructions virtually as we were not able to meet in person. Initially, certain steps in the testing process were intepreted differently by each one of us. Thought processes were difficult to communicate over a call so we had to make an extra effort to listen to each other, have productive discussion and come to a common understanding with regards to the tasks we were supposed to perform. This experience taught us the importance of effective communication and actively listening to everyones perspectives for the success of the team. 
+
+The main challenge we faced in this lab was determining which issues should be considered bugs in the ATM system. It was important to carry out tests on the program as objectively as possible and not judge it based on how we felt the program should be designed. Again communciation among the team members was imperative, that way we could come to a consensus on what should be marked down as an issue and what should not be. We came to the agreement that we should all take turns testing it, that way our defect report would be as unbiased as possible. This method of testing was also very effective at detecting as many bugs as possible. This is because if a team member missed an error in their test run, another one of us was able to catch it and vice versa. It was evident that this method of testing offered diverse perspectives, leading to more thorough tests. We learned that implementing this method of testing would help us in future projects by helping us reduce costs and minimizing the deployment of buggy prgrams.
+
+
 
 # Comments/feedback on the lab and lab document itself
 
