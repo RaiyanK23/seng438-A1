@@ -87,7 +87,8 @@ Peer reviews were an excellent way to see the results of our functional testing.
 
 Our group acknowledges that having a peer review of bug reports that we create is essential for all members of the group to be on the same page but to also catch any small mistakes that maybe were made when the bug ticket was created.
 
-Pair reviews also allowed each of the pairs to compare and contrast our results and point out any inconsistencies (if there were any) and then proceed to compile/combine both of them into one cummulative review.
+Pair reviews also allowed each of the pairs to compare and contrast our results and point out any inconsistencies (if there were any) and then proceed to compile/combine both of them into one cummulative review. It should be noted that we also tested
+on different OS (Mac, Windows) to see if the bugs were consistent.
 
 # How the pair testing was managed and team work/effort was divided 
 
