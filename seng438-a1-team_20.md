@@ -111,4 +111,10 @@ The main challenge we faced in this lab was determining which issues should be c
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+This lab allowed us to extensively conduct tests on the ATM software from different angles and approaches. Through conducting each method within the process of testing we managed to identify and highlight the majority of errors within the application. We felt this was possible because we approached the testing process from two angle being, through exploratory and manual testing. There were errors and bugs that were caught in either one of the testing phases and not the other. Thus showing us the effectiveness and importance of conducting a broad exploratory test and a more specific manual test. 
+
+Specifically within exploratory testing, the aspect of working together with a group of developers helped us greatly expand ideas and stem thought on many posibilities of bugs. If this was done individually, the purpose of exploratory testing may not be completely realized since the main goal is to think about what the cases the could happen in use. 
+
+Furthermore, implementing the manual testing enabled us to perform more specific and direct tests to the functions of the system. This highlighted some of the individual errors specific to functionaly that also may be carried over into other areas of the application. 
+
+After completing testing process there are still small bugs that might have popped up, and that can still be found within the regression testing portion. This reminded us that as in all software, there will always be small problems which arise, and its about the constant testing and review of the system. 
