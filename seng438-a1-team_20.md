@@ -6,7 +6,7 @@
 |-----------------|
 | Mohammed Kabir               |   
 | Jacob Adeyemo (30046186)            |   
-| Markosch Saure              |   
+| Markosch Saure (30088690)             |   
 | Kundai Dziwa               |   
 
 
@@ -91,9 +91,16 @@ Pair reviews also allowed each of the pairs to compare and contrast our results 
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+As per the lab instructions, we divided into two groups of 2 for exploratory testing, where one person would develop test cases and conduct the testing while the other person analyzes and records the results. When combined as a group for manual and regression testing, each person was assigned one of the following tasks:
+- develop and give instructions for each test case
+- perform the actual test using the instructions
+- record any bugs found on the Jira board
+- assist on any the above tasks as necessary
+
+similarly, delegation of work for the lab report write-up was determined using the report section headers as the basis. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
+
 The first difficulty we encounterd in this lab was coordinating the schedules of each team member, as every one of us was busy. We overcame this by communicating and sharing calendars, so we could reach an agreement on convinient times to meet. 
 
 Another difficulty we faced was following the lab instructions virtually as we were not able to meet in person. Initially, certain steps in the testing process were intepreted differently by each one of us. Thought processes were difficult to communicate over a call so we had to make an extra effort to listen to each other, have productive discussion and come to a common understanding with regards to the tasks we were supposed to perform. This experience taught us the importance of effective communication and actively listening to everyones perspectives for the success of the team. 
