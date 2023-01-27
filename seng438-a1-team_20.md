@@ -83,7 +83,11 @@ From running both exploratory and manual functional testing, we conclude that ex
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Peer reviews were an excellent way to see the results of our functional testing. Reviewing bug reports made by someone else offers more context into the specifics of the bug (what function, repro steps, etc.). Peer reviewing the defect reports is also a great way to make fixes to perhaps incorrect summaries and or procedures in the bug ticket. 
+
+Our group acknowledges that having a peer review of bug reports that we create is essential for all members of the group to be on the same page but to also catch any small mistakes that maybe were made when the bug ticket was created.
+
+Pair reviews also allowed each of the pairs to compare and contrast our results and point out any inconsistencies (if there were any) and then proceed to compile/combine both of them into one cummulative review.
 
 # How the pair testing was managed and team work/effort was divided 
 
